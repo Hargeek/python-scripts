@@ -1,2 +1,1 @@
-# python-scripts
-整理实用的python脚本
+# 整理实用的python脚本
